@@ -1,9 +1,10 @@
 #include <iostream>
-#include "figure.h"
-#include "triangle.h"
-#include "square.h"
-#include "octagon.h"
+
 #include "arrayFigures.h"
+#include "figure.h"
+#include "octagon.h"
+#include "square.h"
+#include "triangle.h"
 
 int main() {
     ArrayFigure figures;
